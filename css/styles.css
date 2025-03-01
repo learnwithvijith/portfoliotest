@@ -1,0 +1,27 @@
+/* Author : Vijith */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.active{
+    color: #5E3BEE !important;
+}
+
+#hero h1{
+    font-size: 22px;
+}
+#hero strong{
+    color: #5E3BEE;
+}
+#expertise img{
+    height: 80px;
+    width: 80px;
+}
+#expertise .card{
+    background-color: #F5FCFF;
+    min-height: 250px;
+}
